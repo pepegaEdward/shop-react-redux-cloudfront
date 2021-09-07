@@ -30,3 +30,4 @@ jspm_packages
 
 # Serverless directories
 .serverless
+/serverless-single-page-app-plugin/
